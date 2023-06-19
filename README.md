@@ -13,3 +13,7 @@ Vá em System - Reset Configuraion
 Marque a opção - No Default Configration
 
 ![image](https://github.com/JoelFernandes01/routerborder/assets/36451882/298494e2-db2d-45c9-998c-4109ad9c65d2)
+
+Após isso, o router irá reiniciar e não terá mais IP, você precisa acessar via MAC 
+
+![image](https://github.com/JoelFernandes01/routerborder/assets/36451882/8c5460d9-4e0e-458c-9c01-19c2e869edd7)
