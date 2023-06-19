@@ -19,6 +19,7 @@ Após isso, o router irá reiniciar e não terá mais IP, você precisa acessar 
 ![image](https://github.com/JoelFernandes01/routerborder/assets/36451882/8c5460d9-4e0e-458c-9c01-19c2e869edd7)
 
 
+Vamos começar , nomeando nossas interfaces, vá em Interfaces - Selecione a interface que está conectado seu PC e nomeie-a
 
 ![image](https://github.com/JoelFernandes01/routerborder/assets/36451882/99f8cc18-9af4-4bd6-bc0e-308050aa2edb)
 
