@@ -3,10 +3,13 @@
 Primeiros passos para zerar nosso HaP
 
 Após logar no nosso router, através do IP padrão ( 192.168.88.1 )
+
 ![image](https://github.com/JoelFernandes01/routerborder/assets/36451882/8f184a4f-9e41-4b79-a000-322eb223f57c)
 
 Vá em System - Reset Configuraion
+
 ![image](https://github.com/JoelFernandes01/routerborder/assets/36451882/ef0238cd-54dd-4884-bd34-05ec4be1492b)
 
-Marque a opção
+Marque a opção - No Default Configration
+
 ![image](https://github.com/JoelFernandes01/routerborder/assets/36451882/298494e2-db2d-45c9-998c-4109ad9c65d2)
