@@ -16,12 +16,13 @@ Marque a opção - No Default Configration
 
 Após isso, o router irá reiniciar e não terá mais IP, você precisa acessar via MAC 
 
-![image](https://github.com/JoelFernandes01/routerborder/assets/36451882/8c5460d9-4e0e-458c-9c01-19c2e869edd7)
-
+![image](https://github.com/JoelFernandes01/routerborder/assets/36451882/f6b366ab-3b7e-4139-b04f-7378e770f226)
 
 Vamos começar , nomeando nossas interfaces, vá em Interfaces - Selecione a interface que está conectado seu PC e nomeie-a
 
 ![image](https://github.com/JoelFernandes01/routerborder/assets/36451882/99f8cc18-9af4-4bd6-bc0e-308050aa2edb)
+
+Depois, nomeie a interface que vai pra seu ISP - Vá em Interface - Selecione a interface que está conectado ao seu ISP
 
 
 
